@@ -275,6 +275,13 @@
       "Highschool Student"
     ]
   },
+  "ethan_krichavsky": {
+    "alumn": true,
+    "name": "Ethan Krichavsky",
+    "titles": [
+      "Highschool Student"
+    ]
+  },
   "alex_skeldon": {
     "alumn": true,
     "contact": "askeldo1 at jhu.edu",
