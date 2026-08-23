@@ -182,8 +182,8 @@ def process_team(data: dict[str, Any]):
             "title": "Undergraduate Students",
         },
         {
-            "positions": ["High School Student", "Highschool Student"],
-            "title": "High School Students",
+            "positions": ["Highschool Student"],
+            "title": "Highschool Students",
         },
         {
             "positions": ["Visiting Student"],
